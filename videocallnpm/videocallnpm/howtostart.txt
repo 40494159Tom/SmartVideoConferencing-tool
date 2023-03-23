@@ -1,0 +1,4 @@
+
+npm run devStart		//starts the server and the app
+
+peerjs --port 3001		//starts the peer js server
